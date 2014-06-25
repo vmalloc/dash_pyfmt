@@ -1,0 +1,3 @@
+*.docset
+python_format_strings.rb
+.DS_Store
